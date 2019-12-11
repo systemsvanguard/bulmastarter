@@ -1,0 +1,10 @@
+/* Portfolio site for fullstack developer Ryan Hunter | ryan@RyanHunter.org | GitHub handle : SystemsVanguard  */
+.mynavbar {
+  color: #00008b;
+}
+.mynavbar:hover {
+  color: #468b00;
+  background-color: #d9d9ff;
+}
+
+
