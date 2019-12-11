@@ -3,6 +3,7 @@ Simple HTML5 starter template based on Bulma CSS framework and FontAwesome 5 ico
 
 ![Bulma Portfolio Starter Template](http://ryanhunter.ca/images/portfolio/bulmastarter.jpg)
 
+Live **Site Demo** ~ [Bulma Portfolio Starter](http://ryanhunter.ca/code/bulmastarter/) 
 ---
 
 ## Features
