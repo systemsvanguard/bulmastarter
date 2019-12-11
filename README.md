@@ -1,5 +1,6 @@
 # bulmastarter
 Simple HTML5 starter template based on Bulma CSS framework and FontAwesome 5 icons. 
+
 ![Bulma Portfolio Starter Template](http://ryanhunter.ca/images/portfolio/bulmastarter.jpg)
 
 ---
